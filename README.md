@@ -1,2 +1,1 @@
-# curso-henrry
-pruebas para el curso
+este proyecto es una prueba para clonar de git a mi pc
